@@ -1,0 +1,65 @@
+about:
+  description: The infrastructure platform for the intelligence era
+  license: MPL-2.0
+  homepage: https://encore.dev
+  head: 97f5124
+  archived: false
+  latestVersion: v1.58.4
+  collectedAt: 2026-09-04T04:23:09Z
+timeline:
+  created: 2021-02-17
+  lastCommit: 2026-09-03
+  lastRelease: 2026-08-27
+popularity:
+  star: 12335
+  watcher: 66
+  fork: 615
+  release: 169
+  contributor: 111
+  pullRequest: 199
+  issue: 433
+language:
+  Go: 4358064
+  Rust: 3002002
+  TypeScript: 141694
+  Shell: 11326
+  Handlebars: 9648
+  JavaScript: 5893
+  Batchfile: 5304
+  Makefile: 1338
+  Go Template: 1234
+  Dockerfile: 290
+totalLine: 7536793
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 5
+    mergedPR: 25
+    openPR: 5
+    closedIssue: 2
+    openIssue: 3
+    commit: 28
+  last90d:
+    since: 2026-06-06
+    release: 10
+    mergedPR: 58
+    openPR: 14
+    closedIssue: 5
+    openIssue: 7
+    commit: 63
+  last180d:
+    since: 2026-03-08
+    release: 29
+    mergedPR: 165
+    openPR: 25
+    closedIssue: 14
+    openIssue: 11
+    commit: 170
+  last360d:
+    since: 2025-09-09
+    release: 63
+    mergedPR: 328
+    openPR: 37
+    closedIssue: 53
+    openIssue: 18
+    commit: 330
