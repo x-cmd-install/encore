@@ -5,18 +5,18 @@ about:
   head: 97f5124
   archived: false
   latestVersion: "v1.58.4"
-  collectedAt: 2026-09-07T06:07:00Z
+  collectedAt: 2026-09-07T18:21:06Z
 timeline:
   created: 2021-02-17
   lastCommit: 2026-09-03
   lastRelease: 2026-08-27
 popularity:
-  star: 12345
+  star: 12347
   watcher: 67
-  fork: 619
+  fork: 620
   release: 169
   contributor: 111
-  pullRequest: 2012
+  pullRequest: 2013
   issue: 433
 language:
   Go: 4358064
@@ -35,7 +35,7 @@ recent:
     since: 2026-08-08
     release: 5
     mergedPR: 24
-    openPR: 7
+    openPR: 8
     closedIssue: 2
     openIssue: 3
     commit: 23
@@ -43,7 +43,7 @@ recent:
     since: 2026-07-09
     release: 8
     mergedPR: 36
-    openPR: 11
+    openPR: 12
     closedIssue: 3
     openIssue: 4
     commit: 37
@@ -51,7 +51,7 @@ recent:
     since: 2026-06-09
     release: 10
     mergedPR: 54
-    openPR: 16
+    openPR: 17
     closedIssue: 5
     openIssue: 6
     commit: 53
@@ -59,7 +59,7 @@ recent:
     since: 2026-03-11
     release: 29
     mergedPR: 158
-    openPR: 27
+    openPR: 28
     closedIssue: 14
     openIssue: 11
     commit: 154
@@ -67,7 +67,7 @@ recent:
     since: 2025-09-12
     release: 62
     mergedPR: 323
-    openPR: 39
+    openPR: 40
     closedIssue: 53
     openIssue: 18
     commit: 319
@@ -75,20 +75,20 @@ recent:
     since: 2024-09-17
     release: 100
     mergedPR: 723
-    openPR: 54
+    openPR: 55
     closedIssue: 208
     openIssue: 48
     commit: 752
 total:
   release: 169
   mergedPR: 1811
-  openPR: 60
+  openPR: 61
   closedIssue: 368
   openIssue: 65
   commit: 2238
 ---
 path: /home/runner/.x-repo/github.com/encoredev/encore
-collectedAt: 2026-09-07T06:07:03Z
+collectedAt: 2026-09-07T18:21:09Z
 loc:
   Go:
     code: 155276
@@ -346,7 +346,7 @@ checks:
       - 'Warn: 25 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:07:04+00:00
+  collectedAt: 2026-09-07T18:21:11+00:00
   platform:
     darwin/arm64:
       name:  null
