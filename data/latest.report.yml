@@ -2,15 +2,15 @@ about:
   description: "The infrastructure platform for the intelligence era"
   license: MPL-2.0
   homepage: https://encore.dev
-  head: 795cca1
+  head: 4ad818f
   archived: false
   latestVersion: "v1.58.4"
   latestRelease: "v1.58.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:16:14Z
+  collectedAt: 2026-09-09T20:50:12Z
 timeline:
   created: 2021-02-17
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-27
   lastRelease: 2026-08-27
   lastPrerelease: 
@@ -19,11 +19,11 @@ popularity:
   watcher: 67
   fork: 619
   release: 169
-  contributor: 111
+  contributor: 112
   pullRequest: 2017
   issue: 434
 language:
-  Go: 4418003
+  Go: 4419289
   Rust: 3019034
   TypeScript: 141694
   Shell: 11326
@@ -33,71 +33,71 @@ language:
   Makefile: 1338
   Go Template: 1234
   Dockerfile: 290
-totalBytes: 7613826
+totalBytes: 7615112
 recent:
   last30d:
     since: 2026-08-10
     release: 5
-    mergedPR: 28
-    openPR: 6
+    mergedPR: 29
+    openPR: 5
     closedIssue: 2
     openIssue: 4
-    commit: 29
+    commit: 30
   last60d:
     since: 2026-07-11
     release: 8
-    mergedPR: 41
-    openPR: 10
+    mergedPR: 42
+    openPR: 9
     closedIssue: 3
     openIssue: 5
-    commit: 43
+    commit: 44
   last90d:
     since: 2026-06-11
     release: 10
-    mergedPR: 54
-    openPR: 15
+    mergedPR: 55
+    openPR: 14
     closedIssue: 5
     openIssue: 6
-    commit: 59
+    commit: 60
   last180d:
     since: 2026-03-13
     release: 28
-    mergedPR: 156
-    openPR: 26
+    mergedPR: 157
+    openPR: 25
     closedIssue: 14
     openIssue: 12
-    commit: 160
+    commit: 161
   last360d:
     since: 2025-09-14
     release: 62
-    mergedPR: 328
-    openPR: 37
+    mergedPR: 329
+    openPR: 36
     closedIssue: 53
     openIssue: 18
-    commit: 325
+    commit: 326
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 726
-    openPR: 53
+    mergedPR: 727
+    openPR: 52
     closedIssue: 208
     openIssue: 49
-    commit: 755
+    commit: 756
 total:
   release: 169
-  mergedPR: 1816
-  openPR: 59
+  mergedPR: 1817
+  openPR: 58
   closedIssue: 368
   openIssue: 66
-  commit: 2244
+  commit: 2245
 ---
 path: /home/runner/.x-repo/github.com/encoredev/encore
-collectedAt: 2026-09-09T06:16:17Z
+collectedAt: 2026-09-09T20:50:14Z
 loc:
   Go:
-    code: 157130
-    comments: 18425
-    blanks: 26027
+    code: 157179
+    comments: 18431
+    blanks: 26031
     files: 985
   Rust:
     code: 78869
@@ -105,24 +105,24 @@ loc:
     blanks: 11493
     files: 300
   TypeScript:
-    code: 11271
-    comments: 6144
-    blanks: 2728
-    files: 91
+    code: 11295
+    comments: 6147
+    blanks: 2736
+    files: 92
   Json:
-    code: 8699
+    code: 8871
     comments: 0
     blanks: 22
-    files: 24
+    files: 25
   JavaScript:
     code: 3915
     comments: 2065
     blanks: 1025
     files: 10
   Protobuf:
-    code: 2218
-    comments: 632
-    blanks: 564
+    code: 2219
+    comments: 636
+    blanks: 565
     files: 11
   Yaml:
     code: 1041
@@ -190,10 +190,10 @@ loc:
     blanks: 2752
     files: 205
 total:
-  code: 264345
-  comments: 46831
-  blanks: 45254
-  files: 1746
+  code: 264591
+  comments: 46844
+  blanks: 45267
+  files: 1748
 ---
 date: "2026-09-07"
 repo:
