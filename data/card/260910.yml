@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.58.4"
   latestRelease: "v1.58.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:07:24Z
+  collectedAt: 2026-09-10T22:49:31Z
 timeline:
   created: 2021-02-17
   lastCommit: 2026-09-09
@@ -92,7 +92,7 @@ total:
   commit: 2245
 ---
 path: /home/runner/.x-repo/github.com/encoredev/encore
-collectedAt: 2026-09-10T21:07:27Z
+collectedAt: 2026-09-10T22:49:35Z
 loc:
   Go:
     code: 157179
