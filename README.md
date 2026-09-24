@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,380 · **Forks**: 624 · **Open issues**: 435 · **Contributors**: 113
+- **Stars**: 12,382 · **Forks**: 624 · **Open issues**: 435 · **Contributors**: 113
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 2 | 23 | 6 | 0 | 4 | 0 |
-| last60d | 2026-07-25 | 5 | 35 | 10 | 3 | 5 | 0 |
-| 90d | 2026-06-25 | 9 | 53 | 14 | 3 | 6 | 0 |
-| last180d | 2026-03-27 | 25 | 134 | 26 | 14 | 13 | 0 |
-| 360d | 2025-09-28 | 62 | 315 | 39 | 49 | 19 | 0 |
-| last720d | 2024-10-03 | 100 | 692 | 55 | 205 | 50 | 722 |
+| 30d | 2026-08-25 | 2 | 23 | 6 | 0 | 4 | 23 |
+| last60d | 2026-07-26 | 5 | 35 | 10 | 3 | 5 | 41 |
+| 90d | 2026-06-26 | 9 | 52 | 14 | 3 | 6 | 56 |
+| last180d | 2026-03-28 | 25 | 134 | 26 | 14 | 13 | 136 |
+| 360d | 2025-09-29 | 62 | 315 | 39 | 49 | 19 | 322 |
+| last720d | 2024-10-04 | 100 | 691 | 55 | 204 | 50 | 715 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for encore lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:45:17Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:55:06Z._
