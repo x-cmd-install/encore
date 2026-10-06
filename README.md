@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.58.6` (2026-10-01)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-05
 
 ## Popularity
 
-- **Stars**: 12,413 · **Forks**: 628 · **Open issues**: 438 · **Contributors**: 113
+- **Stars**: 12,413 · **Forks**: 629 · **Open issues**: 438 · **Contributors**: 113
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 1823 · **Open PRs**: 62 · **Closed issues**: 368 · **Open issues**: 70 · **Commits**: 2252
+- **Releases**: 170 · **Merged PRs**: 1824 · **Open PRs**: 62 · **Closed issues**: 370 · **Open issues**: 68 · **Commits**: 2253
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 10 | 4 | 0 | 5 | 7 |
-| last60d | 2026-08-06 | 6 | 37 | 9 | 2 | 8 | 41 |
-| 90d | 2026-07-07 | 9 | 48 | 14 | 3 | 9 | 53 |
-| last180d | 2026-04-08 | 24 | 122 | 25 | 11 | 15 | 125 |
-| 360d | 2025-10-10 | 61 | 308 | 39 | 47 | 22 | 314 |
-| last720d | 2024-10-15 | 100 | 672 | 56 | 195 | 52 | 700 |
+| 30d | 2026-09-06 | 1 | 11 | 4 | 2 | 3 | 8 |
+| last60d | 2026-08-07 | 6 | 37 | 9 | 4 | 6 | 42 |
+| 90d | 2026-07-08 | 9 | 49 | 14 | 5 | 7 | 54 |
+| last180d | 2026-04-09 | 24 | 123 | 25 | 13 | 13 | 126 |
+| 360d | 2025-10-11 | 60 | 309 | 39 | 49 | 20 | 315 |
+| last720d | 2024-10-16 | 100 | 670 | 56 | 196 | 50 | 695 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for encore lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:50:38Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:52:05Z._
