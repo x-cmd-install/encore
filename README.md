@@ -26,7 +26,7 @@ Total: **265,524** lines of code across **1419** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.8 / 10**
+Overall score: **6.6 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,442 · **Forks**: 635 · **Open issues**: 439 · **Contributors**: 113
+- **Stars**: 12,448 · **Forks**: 636 · **Open issues**: 439 · **Contributors**: 113
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 1 | 12 | 4 | 2 | 2 | 20 |
-| last60d | 2026-08-12 | 6 | 41 | 11 | 4 | 7 | 54 |
-| 90d | 2026-07-13 | 9 | 54 | 15 | 5 | 8 | 66 |
-| last180d | 2026-04-14 | 22 | 125 | 26 | 12 | 14 | 138 |
-| 360d | 2025-10-16 | 58 | 311 | 41 | 49 | 21 | 327 |
-| last720d | 2024-10-21 | 100 | 663 | 58 | 192 | 51 | 695 |
+| 30d | 2026-09-12 | 1 | 12 | 4 | 2 | 2 | 19 |
+| last60d | 2026-08-13 | 5 | 38 | 11 | 2 | 7 | 46 |
+| 90d | 2026-07-14 | 9 | 52 | 14 | 5 | 8 | 61 |
+| last180d | 2026-04-15 | 22 | 124 | 26 | 12 | 14 | 130 |
+| 360d | 2025-10-17 | 58 | 311 | 40 | 49 | 21 | 324 |
+| last720d | 2024-10-22 | 100 | 661 | 58 | 192 | 51 | 691 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for encore lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:50:07Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:19:02Z._
