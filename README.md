@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-The infrastructure platform for the intelligence era
+Infrastructure orchestration from local to your cloud
 
 [![x-cmd/install — encore Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/encore.svg)](https://x-cmd.com/install/encore)
 
@@ -14,12 +14,12 @@ x install encore
 
 ## Code insight
 
-Total: **265,524** lines of code across **1419** files in the top 5 languages.
+Total: **265,799** lines of code across **1419** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 158,021 | 18,538 | 26,142 | 992 |
-| Rust | 79,026 | 3,238 | 11,521 | 300 |
+| Go | 158,294 | 18,576 | 26,166 | 992 |
+| Rust | 79,028 | 3,238 | 11,521 | 300 |
 | TypeScript | 11,295 | 6,147 | 2,736 | 92 |
 | Json | 8,871 | 0 | 22 | 25 |
 | JavaScript | 3,915 | 2,065 | 1,025 | 10 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.58.6` (2026-10-01)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-12
 
 ## Popularity
 
-- **Stars**: 12,448 · **Forks**: 636 · **Open issues**: 439 · **Contributors**: 113
+- **Stars**: 12,446 · **Forks**: 636 · **Open issues**: 439 · **Contributors**: 113
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 1829 · **Open PRs**: 64 · **Closed issues**: 370 · **Open issues**: 69 · **Commits**: 2265
+- **Releases**: 170 · **Merged PRs**: 1831 · **Open PRs**: 63 · **Closed issues**: 370 · **Open issues**: 69 · **Commits**: 2267
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 1 | 12 | 4 | 2 | 2 | 19 |
-| last60d | 2026-08-13 | 5 | 38 | 11 | 2 | 7 | 46 |
-| 90d | 2026-07-14 | 9 | 52 | 14 | 5 | 8 | 61 |
-| last180d | 2026-04-15 | 22 | 124 | 26 | 12 | 14 | 130 |
-| 360d | 2025-10-17 | 58 | 311 | 40 | 49 | 21 | 324 |
-| last720d | 2024-10-22 | 100 | 661 | 58 | 192 | 51 | 691 |
+| 30d | 2026-09-13 | 1 | 14 | 3 | 2 | 2 | 21 |
+| last60d | 2026-08-14 | 4 | 39 | 10 | 2 | 7 | 48 |
+| 90d | 2026-07-15 | 9 | 53 | 13 | 5 | 8 | 63 |
+| last180d | 2026-04-16 | 22 | 126 | 25 | 12 | 14 | 132 |
+| 360d | 2025-10-18 | 58 | 313 | 39 | 49 | 21 | 326 |
+| last720d | 2024-10-23 | 100 | 659 | 57 | 192 | 51 | 690 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for encore lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:19:02Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:15:09Z._
