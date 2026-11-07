@@ -14,11 +14,11 @@ x install encore
 
 ## Code insight
 
-Total: **266,459** lines of code across **1426** files in the top 5 languages.
+Total: **266,466** lines of code across **1426** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 158,953 | 18,648 | 26,248 | 999 |
+| Go | 158,960 | 18,650 | 26,249 | 999 |
 | Rust | 79,028 | 3,238 | 11,521 | 300 |
 | TypeScript | 11,295 | 6,147 | 2,736 | 92 |
 | Json | 8,872 | 0 | 22 | 25 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.58.8` (2026-10-20)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-06
 
 ## Popularity
 
-- **Stars**: 12,693 · **Forks**: 653 · **Open issues**: 444 · **Contributors**: 114
+- **Stars**: 12,699 · **Forks**: 654 · **Open issues**: 444 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 172 · **Merged PRs**: 1842 · **Open PRs**: 78 · **Closed issues**: 372 · **Open issues**: 72 · **Commits**: 2278
+- **Releases**: 172 · **Merged PRs**: 1843 · **Open PRs**: 77 · **Closed issues**: 372 · **Open issues**: 72 · **Commits**: 2283
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 17 | 18 | 1 | 5 | 21 |
-| last60d | 2026-09-07 | 3 | 29 | 22 | 3 | 8 | 33 |
-| 90d | 2026-08-08 | 8 | 55 | 25 | 6 | 10 | 68 |
-| last180d | 2026-05-10 | 21 | 111 | 35 | 12 | 15 | 118 |
-| 360d | 2025-11-11 | 55 | 310 | 54 | 42 | 23 | 325 |
-| last720d | 2024-11-16 | 100 | 633 | 72 | 182 | 54 | 661 |
+| 30d | 2026-10-08 | 2 | 17 | 17 | 1 | 5 | 26 |
+| last60d | 2026-09-08 | 3 | 26 | 21 | 3 | 7 | 38 |
+| 90d | 2026-08-09 | 8 | 56 | 24 | 6 | 10 | 73 |
+| last180d | 2026-05-11 | 21 | 107 | 34 | 12 | 15 | 123 |
+| 360d | 2025-11-12 | 55 | 310 | 52 | 41 | 23 | 330 |
+| last720d | 2024-11-17 | 100 | 634 | 71 | 182 | 54 | 666 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for encore lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:12:21Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:12:29Z._
