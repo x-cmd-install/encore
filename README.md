@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 17 | 17 | 1 | 5 | 26 |
-| last60d | 2026-09-08 | 3 | 26 | 21 | 3 | 7 | 38 |
-| 90d | 2026-08-09 | 8 | 56 | 24 | 6 | 10 | 73 |
-| last180d | 2026-05-11 | 21 | 107 | 34 | 12 | 15 | 123 |
-| 360d | 2025-11-12 | 55 | 310 | 52 | 41 | 23 | 330 |
-| last720d | 2024-11-17 | 100 | 634 | 71 | 182 | 54 | 666 |
+| 30d | 2026-10-09 | 2 | 13 | 17 | 1 | 4 | 26 |
+| last60d | 2026-09-09 | 3 | 26 | 21 | 3 | 7 | 38 |
+| 90d | 2026-08-10 | 8 | 55 | 24 | 6 | 10 | 73 |
+| last180d | 2026-05-12 | 15 | 105 | 34 | 12 | 15 | 123 |
+| 360d | 2025-11-13 | 55 | 308 | 52 | 41 | 23 | 330 |
+| last720d | 2024-11-18 | 100 | 627 | 71 | 182 | 54 | 666 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for encore lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:12:29Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:23:29Z._
