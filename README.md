@@ -14,13 +14,13 @@ x install encore
 
 ## Code insight
 
-Total: **267,769** lines of code across **1434** files in the top 5 languages.
+Total: **267,996** lines of code across **1435** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 159,498 | 18,724 | 26,320 | 1006 |
-| Rust | 79,756 | 3,264 | 11,601 | 301 |
-| TypeScript | 11,327 | 6,159 | 2,736 | 92 |
+| Go | 159,669 | 18,741 | 26,335 | 1007 |
+| Rust | 79,811 | 3,268 | 11,605 | 301 |
+| TypeScript | 11,328 | 6,159 | 2,736 | 92 |
 | Json | 8,872 | 0 | 22 | 25 |
 | JavaScript | 3,915 | 2,065 | 1,025 | 10 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.58.9` (2026-11-12)
-- **Last commit**: 2026-11-13
+- **Latest**: `v1.58.10` (2026-11-23)
+- **Last commit**: 2026-11-24
 
 ## Popularity
 
-- **Stars**: 12,735 · **Forks**: 663 · **Open issues**: 446 · **Contributors**: 116
+- **Stars**: 12,736 · **Forks**: 663 · **Open issues**: 446 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 173 · **Merged PRs**: 1854 · **Open PRs**: 80 · **Closed issues**: 372 · **Open issues**: 74 · **Commits**: 2296
+- **Releases**: 174 · **Merged PRs**: 1861 · **Open PRs**: 87 · **Closed issues**: 373 · **Open issues**: 73 · **Commits**: 2303
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 17 | 16 | 0 | 3 | 13 |
-| last60d | 2026-09-24 | 4 | 35 | 22 | 4 | 8 | 47 |
-| 90d | 2026-08-25 | 6 | 58 | 26 | 5 | 11 | 71 |
-| last180d | 2026-05-27 | 15 | 105 | 37 | 10 | 16 | 122 |
-| 360d | 2025-11-28 | 50 | 293 | 55 | 41 | 24 | 309 |
-| last720d | 2024-12-03 | 100 | 612 | 72 | 176 | 53 | 649 |
+| 30d | 2026-10-25 | 2 | 24 | 23 | 0 | 3 | 15 |
+| last60d | 2026-09-25 | 5 | 42 | 29 | 4 | 8 | 54 |
+| 90d | 2026-08-26 | 7 | 64 | 33 | 6 | 10 | 78 |
+| last180d | 2026-05-28 | 16 | 111 | 44 | 11 | 15 | 129 |
+| 360d | 2025-11-29 | 51 | 300 | 61 | 42 | 22 | 316 |
+| last720d | 2024-12-04 | 100 | 619 | 79 | 177 | 52 | 654 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for encore lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:43:11Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:46:47Z._
