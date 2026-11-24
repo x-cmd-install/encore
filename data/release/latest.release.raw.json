@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/encoredev/encore/releases/443532928",
-  "assets_url": "https://api.github.com/repos/encoredev/encore/releases/443532928/assets",
-  "upload_url": "https://uploads.github.com/repos/encoredev/encore/releases/443532928/assets{?name,label}",
-  "html_url": "https://github.com/encoredev/encore/releases/tag/v1.58.9",
-  "id": 443532928,
+  "url": "https://api.github.com/repos/encoredev/encore/releases/455316501",
+  "assets_url": "https://api.github.com/repos/encoredev/encore/releases/455316501/assets",
+  "upload_url": "https://uploads.github.com/repos/encoredev/encore/releases/455316501/assets{?name,label}",
+  "html_url": "https://github.com/encoredev/encore/releases/tag/v1.58.10",
+  "id": 455316501,
   "author": {
     "login": "encore-releaser[bot]",
     "id": 346054747,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOFEC8xs4ab8aA",
-  "tag_name": "v1.58.9",
-  "target_commitish": "56387a1d2063e0f9a1f753e5296738c6ced308c6",
-  "name": "v1.58.9 — Fixes and improvements",
+  "node_id": "RE_kwDOFEC8xs4bI5QV",
+  "tag_name": "v1.58.10",
+  "target_commitish": "94e12a29d2ca69b889f126d091c8bcddf49c7d2a",
+  "name": "v1.58.10 — Fixes and improvements",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-12T12:23:00Z",
-  "updated_at": "2026-11-12T21:31:16Z",
-  "published_at": "2026-11-12T21:31:16Z",
+  "created_at": "2026-11-23T10:02:26Z",
+  "updated_at": "2026-11-23T11:15:08Z",
+  "published_at": "2026-11-23T11:15:08Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/encoredev/encore/tarball/v1.58.9",
-  "zipball_url": "https://api.github.com/repos/encoredev/encore/zipball/v1.58.9",
-  "body": "## What's Changed\n* cli: fix WorkspaceRoot looping forever on a .git file by @pujitha24 in https://github.com/encoredev/encore/pull/2620\n* Update README.md by @marcuskohlberg in https://github.com/encoredev/encore/pull/2622\n* Fix LLM rules setup and update LLM instructions by @marcuskohlberg in https://github.com/encoredev/encore/pull/2623\n* runtime: keep pubsub topics and buckets from all infra config providers by @jaglyserx in https://github.com/encoredev/encore/pull/2628\n* v2/app/legacymeta: stop metadata keeping the parsed app alive by @twindebank in https://github.com/encoredev/encore/pull/2630\n* v2/internals/pkginfo: resolve nested modules missing from the module cache by @eandre in https://github.com/encoredev/encore/pull/2638\n* sqldb: add 10 minutes of jitter to connection lifetimes by default by @gmtuca in https://github.com/encoredev/encore/pull/2637\n* runtimes: log in to Cloud SQL with GCP IAM database authentication by @ekerfelt in https://github.com/encoredev/encore/pull/2640\n* Revert \"runtimes: log in to Cloud SQL with GCP IAM database authentication (#2640)\" by @ekerfelt in https://github.com/encoredev/encore/pull/2641\n* runtimes: re-land GCP IAM database login, keeping the password in ConnString by @ekerfelt in https://github.com/encoredev/encore/pull/2646\n* tsparser: fall back to later export conditions by @eandre in https://github.com/encoredev/encore/pull/2648\n* cli/cmd/encore/daemon: open encore.db without the shared cache by @twindebank in https://github.com/encoredev/encore/pull/2631\n* pkg/paths: compare cleaned paths in FS.HasPrefix outside Windows by @twindebank in https://github.com/encoredev/encore/pull/2632\n* v2/app: look up ServiceForPath in a map of service roots by @twindebank in https://github.com/encoredev/encore/pull/2633\n* internal/etrace, runtimes/go: read goroutine ids with 64 bytes, and skip untraced steps by @twindebank in https://github.com/encoredev/encore/pull/2634\n* cli/daemon/sqldb/docker: check Docker is up with \"docker version\" by @twindebank in https://github.com/encoredev/encore/pull/2635\n* runtimes/go: keep sub-second precision when encoding time.Time params by @Abhishek-B-R in https://github.com/encoredev/encore/pull/2629\n* sqldb: close cursors that are left with rows unread by @ekerfelt in https://github.com/encoredev/encore/pull/2653\n\n## New Contributors\n* @pujitha24 made their first contribution in https://github.com/encoredev/encore/pull/2620\n* @gmtuca made their first contribution in https://github.com/encoredev/encore/pull/2637\n* @Abhishek-B-R made their first contribution in https://github.com/encoredev/encore/pull/2629\n\n**Full Changelog**: https://github.com/encoredev/encore/compare/v1.58.8...v1.58.9",
-  "mentions_count": 8
+  "tarball_url": "https://api.github.com/repos/encoredev/encore/tarball/v1.58.10",
+  "zipball_url": "https://api.github.com/repos/encoredev/encore/zipball/v1.58.10",
+  "body": "## What's Changed\n* runtimes: fix memory leak when internal call fails validation by @kutysam in https://github.com/encoredev/encore/pull/2649\n* runtimes/js: let DummySocket typecheck against newer @types/node by @fredr in https://github.com/encoredev/encore/pull/2659\n* runtimes/core: support CHAR(n) columns in sqldb by @fredr in https://github.com/encoredev/encore/pull/2660\n\n## New Contributors\n* @kutysam made their first contribution in https://github.com/encoredev/encore/pull/2649\n\n**Full Changelog**: https://github.com/encoredev/encore/compare/v1.58.9...v1.58.10",
+  "mentions_count": 2
 }
