@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.58.10"
   latestRelease: "v1.58.10"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:29:59Z
+  collectedAt: 2026-11-28T08:37:30Z
 timeline:
   created: 2021-02-17
   lastCommit: 2026-11-24
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-11-23
   lastPrerelease: 
 popularity:
-  star: 12745
+  star: 12748
   watcher: 65
   fork: 663
   release: 174
@@ -36,23 +36,23 @@ language:
 totalBytes: 7756230
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 2
-    mergedPR: 21
+    mergedPR: 14
     openPR: 19
     closedIssue: 0
     openIssue: 3
     commit: 15
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 5
-    mergedPR: 41
+    mergedPR: 40
     openPR: 29
     closedIssue: 4
     openIssue: 8
     commit: 54
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 5
     mergedPR: 60
     openPR: 33
@@ -60,7 +60,7 @@ recent:
     openIssue: 10
     commit: 78
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 16
     mergedPR: 111
     openPR: 44
@@ -68,19 +68,19 @@ recent:
     openIssue: 15
     commit: 129
   last360d:
-    since: 2025-12-02
-    release: 50
-    mergedPR: 297
+    since: 2025-12-03
+    release: 49
+    mergedPR: 295
     openPR: 61
     closedIssue: 40
     openIssue: 22
     commit: 316
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
     mergedPR: 609
     openPR: 79
-    closedIssue: 176
+    closedIssue: 175
     openIssue: 52
     commit: 647
 total:
@@ -92,7 +92,7 @@ total:
   commit: 2303
 ---
 path: /home/runner/.x-repo/github.com/encoredev/encore
-collectedAt: 2026-11-27T10:30:02Z
+collectedAt: 2026-11-28T08:37:33Z
 loc:
   Go:
     code: 159669
